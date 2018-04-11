@@ -92,6 +92,7 @@
     // Also add #local tag before local images -> #image#local[folder-in-server]/[image-name.anyformat]
     var brands = [{
         "media": [
+            "#imagehttps://scontent.fsal3-1.fna.fbcdn.net/v/t1.0-9/29497009_154535281882198_9092402457271899048_n.png?_nc_cat=0&oh=dbfbc54b98c2c413eac41b5fdd449dd5&oe=5B6C4BAE",
             "#image#localbrands/innbox.png",
             "#image#localbrands/weightless-games.png",
             "#image#localbrands/casatic.png",
