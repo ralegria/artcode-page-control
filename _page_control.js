@@ -90,17 +90,17 @@
     //Control for Aliados area appearing at Main page
     var brands = [{
         "media": [
-            '<?php echo $this->_helpers->linkTo("img/brands/innbox.png", "Assets")?>',
-            '<?php echo $this->_helpers->linkTo("img/brands/weightless-games.png", "Assets")?>',
-            '<?php echo $this->_helpers->linkTo("img/brands/casatic.png", "Assets")?>',
-            '<?php echo $this->_helpers->linkTo("img/brands/ludus-games.png", "Assets")?>',
-            '<?php echo $this->_helpers->linkTo("img/brands/diseno.png", "Assets")?>',
-            '<?php echo $this->_helpers->linkTo("img/brands/ugb.png", "Assets")?>',
-            '<?php echo $this->_helpers->linkTo("img/brands/unicaes.webp", "Assets")?>',
-            '<?php echo $this->_helpers->linkTo("img/brands/udb.webp", "Assets")?>',
-            '<?php echo $this->_helpers->linkTo("img/brands/andres_b.webp", "Assets")?>',
-            '<?php echo $this->_helpers->linkTo("img/brands/the_domaginarium.png", "Assets")?>',
-            '<?php echo $this->_helpers->linkTo("img/brands/gunstone.png", "Assets")?>',
-            '<?php echo $this->_helpers->linkTo("img/brands/infinite.png", "Assets")?>',
+            "<?php echo $this->_helpers->linkTo('img/brands/innbox.png', 'Assets')?>",
+            "<?php echo $this->_helpers->linkTo('img/brands/weightless-games.png', 'Assets')?>",
+            "<?php echo $this->_helpers->linkTo('img/brands/casatic.png', 'Assets')?>",
+            "<?php echo $this->_helpers->linkTo('img/brands/ludus-games.png', 'Assets')?>",
+            "<?php echo $this->_helpers->linkTo('img/brands/diseno.png', 'Assets')?>",
+            "<?php echo $this->_helpers->linkTo('img/brands/ugb.png', 'Assets')?>",
+            "<?php echo $this->_helpers->linkTo('img/brands/unicaes.webp', 'Assets')?>",
+            "<?php echo $this->_helpers->linkTo('img/brands/udb.webp', 'Assets')?>",
+            "<?php echo $this->_helpers->linkTo('img/brands/andres_b.webp', 'Assets')?>",
+            "<?php echo $this->_helpers->linkTo('img/brands/the_domaginarium.png', 'Assets')?>",
+            "<?php echo $this->_helpers->linkTo('img/brands/gunstone.png', 'Assets')?>",
+            "<?php echo $this->_helpers->linkTo('img/brands/infinite.png', 'Assets')?>",
         ]
     }, ];
