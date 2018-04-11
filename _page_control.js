@@ -88,19 +88,21 @@
 
 
     //Control for Aliados area appearing at Main page
+    // !* Important: Add #image tag before url when adding external images url -> #imagehttps://image-url-here
+    // Also add #local tag before local images -> #image#local[folder-in-server]/[image-name.anyformat]
     var brands = [{
         "media": [
-            "brands/innbox.png",
-            "brands/weightless-games.png",
-            "brands/casatic.png",
-            "brands/ludus-games.png",
-            "brands/diseno.png",
-            "brands/ugb.png",
-            "brands/unicaes.webp",
-            "brands/udb.webp",
-            "brands/andres_b.webp",
-            "brands/the_domaginarium.png",
-            "brands/gunstone.png",
-            "brands/infinite.png",
+            "#image#localbrands/innbox.png",
+            "#image#localbrands/weightless-games.png",
+            "#image#localbrands/casatic.png",
+            "#image#localbrands/ludus-games.png",
+            "#image#localbrands/diseno.png",
+            "#image#localbrands/ugb.png",
+            "#image#localbrands/unicaes.webp",
+            "#image#localbrands/udb.webp",
+            "#image#localbrands/andres_b.webp",
+            "#image#localbrands/the_domaginarium.png",
+            "#image#localbrands/gunstone.png",
+            "#image#localbrands/infinite.png",
         ]
     }, ];
