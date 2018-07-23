@@ -60,6 +60,13 @@
             ]
         },
         {
+            "name": "VAGA",
+            "resume": "Aplicacion desarrollada por Alex.",
+            "media": [
+                "https://vimeo.com/260577690",
+            ]
+        },
+        {
             "name": "Animaciones",
             "resume": "Animaciones creadas para el evento San Salvador Innovation Week 2017, que es organizado por INNBOX y CasaTIC. <br> Cuenta con ArtCode para expresar tus ideas y productos de una manera creativa y llamativa que capte la atención de tus clientes.",
             "media": [
